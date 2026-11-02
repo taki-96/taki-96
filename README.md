@@ -1,18 +1,15 @@
 # Hi there 👋
 
-<a href="https://github.com/s1f10220233/s1f10220233/">
-<img src="https://komarev.com/ghpvc/?username=s1f10220233" alt="s1f10220233" />
+<a href="https://github.com/taki-96/taki-96/">
+<img src="https://komarev.com/ghpvc/?username=taki-96" alt="taki-96" />
 </a>
 <br /><br />
 
-## Current Project
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=s1f10220227&repo=sleep-comm-ai&theme=algolia)](https://github.com/s1f10220227/sleep-comm-ai)
-
 ## My GitHub stats
-[![](https://raw.githubusercontent.com/s1f102200233/s1f102200233/main/profile-summary-card-output/algolia/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/s1f102200233/s1f102200233/main/profile-summary-card-output/algolia/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)[![](https://raw.githubusercontent.com/s1f102200233/s1f102200233/main/profile-summary-card-output/algolia/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) 
+[![](https://raw.githubusercontent.com/taki-96/taki-96/main/profile-summary-card-output/algolia/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/taki-96/taki-96/main/profile-summary-card-output/algolia/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)[![](https://raw.githubusercontent.com/taki-96/taki-96/main/profile-summary-card-output/algolia/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=s1f102200233&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=taki-96&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
 
 # Experience (in order of most to least)
 ## Programming Languages
@@ -34,7 +31,7 @@
 <img src="https://skillicons.dev/icons?i=html,css,nodejs,md" />
 
 <!--
-**s1f102200233/s1f102200233** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**taki-96/taki-96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
